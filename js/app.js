@@ -235,7 +235,7 @@ document.addEventListener("DOMContentLoaded", function () {
       e.preventDefault();
 
       emailjs
-          .sendForm("service_lkjsqmh", "template_r9ebnkd", this)
+          .sendForm("service_lkjsqmh", "template_o75jee6", this)
           .then(
               function (response) {
                 alert("¡Mensaje enviado con éxito!");
