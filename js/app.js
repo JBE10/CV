@@ -22,7 +22,7 @@ const projects = [
     title: "Portfolio Website",
     description: "Sitio web personal responsivo desarrollado con HTML, CSS y JavaScript.",
     technologies: ["HTML", "CSS", "JavaScript", "Firebase"],
-    link: "#",
+    link: "https://github.com/JBE10/CV.git",
   },
 ]
 
