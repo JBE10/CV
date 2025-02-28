@@ -21,7 +21,7 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "Sitio web personal responsivo desarrollado con HTML, CSS y JavaScript.",
-    technologies: ["HTML", "CSS", "JavaScript", "Firebase"],
+    technologies: ["HTML", "CSS", "JavaScript", "GitHub"],
     link: "https://github.com/JBE10/CV.git",
   },
 ]
@@ -40,10 +40,21 @@ const certifications = [
     date: "2023",
   },
   {
+    title: "Assets, Threats, and Vulnerabilities",
+    issuer: "Google",
+    date: "2024",
+  },
+  {
     title: "Automate Cybersecurity Tasks with Python",
     issuer: "Google",
-    date: "2023",
+    date: "2024",
   },
+  {
+    title: "Python Data Structures",
+    issuer: "University of Michigan",
+    date: "2024",
+  },
+
   {
     title: "English UK - B2",
     issuer: "British Council",
@@ -249,4 +260,5 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 });
+
 
