@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="099bea0f-8661-444d-b719-45525a6d45dc" name="Changes" comment="MOdificado">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="099bea0f-8661-444d-b719-45525a6d45dc" name="Changes" comment="MOdificado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +96,7 @@
       <workItem from="1741220843803" duration="693000" />
       <workItem from="1741300745767" duration="389000" />
       <workItem from="1741811872143" duration="696000" />
-      <workItem from="1741980002118" duration="348000" />
+      <workItem from="1741980002118" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="MOdificado">
       <option name="closed" value="true" />
@@ -133,7 +130,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741300790507</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="MOdificado">
+      <option name="closed" value="true" />
+      <created>1741980467057</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741980467057</updated>
+    </task>
+    <task id="LOCAL-00006" summary="MOdificado">
+      <option name="closed" value="true" />
+      <created>1741980477081</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741980477081</updated>
+    </task>
+    <task id="LOCAL-00007" summary="MOdificado">
+      <option name="closed" value="true" />
+      <created>1741980608303</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741980608303</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
